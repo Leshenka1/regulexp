@@ -1,0 +1,4 @@
+The server has an address of 100.18.0.250 and the printer has an address of 10.18.0.116 . 
+ 200.18.0.220  10.18.0.776 
+10.18.0.76. 
+
